@@ -11,6 +11,6 @@ package laba1;
  * @author 21645
  */
 public class пункт5 {
-System.out.println("первое изменение в коде");
-        System.out.println("3 изменение в коде");
+System.out.println("ыфвфывывавыпчмпе");
+System.out.println("ыфвфцычвфцуецуйывуйцыв");
 }
