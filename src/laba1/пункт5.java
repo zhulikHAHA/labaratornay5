@@ -11,5 +11,6 @@ package laba1;
  * @author 21645
  */
 public class пункт5 {
-
+System.out.println("ыфвфывывавыпчмпе");
+System.out.println("ыфвфцычвфцуецуйывуйцыв");
 }
