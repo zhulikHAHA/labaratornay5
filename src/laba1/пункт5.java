@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package laba1;
 
 /**
@@ -10,5 +11,5 @@ package laba1;
  * @author 21645
  */
 public class пункт5 {
-    System.out.println("изменение 2");
+
 }
