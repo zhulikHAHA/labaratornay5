@@ -17,6 +17,9 @@ public class LABA1 {
     public static void main(String[] args) {
         System.out.println("первое изменение в коде");
         System.out.println("3 изменение в коде");
+        System.out.println("3 изменение в код1212");
+        System.out.println("ыварвыларлыолдвоаыаыва1212");
+        System.out.println("3 изменение в кодеыфвцфывцфывцфываыфвафц1212");
     }
     
 }
