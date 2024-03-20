@@ -15,7 +15,8 @@ public class LABA1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("изменение 1");
+        System.out.println("первое изменение в коде");
+        System.out.println("3 изменение в коде");
     }
     
 }
