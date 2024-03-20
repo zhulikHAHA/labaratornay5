@@ -10,5 +10,5 @@ package laba1;
  * @author 21645
  */
 public class пункт5 {
-    
+    System.out.println("изменение 2");
 }
