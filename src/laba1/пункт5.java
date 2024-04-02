@@ -13,4 +13,5 @@ package laba1;
 public class пункт5 {
 System.out.println("ыфвфывывавыпчмпе");
 System.out.println("ыфвфцычвфцуецуйывуйцыв");
+System.out.println("ЛАба5");
 }
