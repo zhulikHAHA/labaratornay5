@@ -14,6 +14,6 @@ public class пункт5 {
 System.out.println("фвфуцфычвуцфывпавми");
 System.out.println("явцячвцфв");
 System.out.println("ЛАба5");
-System.out.println("Лdawsdwasdwasdwasdw5");
-
+System.out.println("Лdawsdwasdwasdwasdw5")
+System.out.println("Лdawsdwasdwas5")
 }
