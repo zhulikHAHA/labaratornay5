@@ -3,17 +3,24 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package laba1;
 
 /**
  *
  * @author 21645
  */
-public class пункт5 {
-System.out.println("фвфуцфычвуцфывпавми");
-System.out.println("явцячвцфв");
-System.out.println("ЛАба5");
-System.out.println("Лdawsdwasdwasdwasdw5")
-System.out.println("Лdawsdwasdwas5")
+public class LABA1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("первое изменение в коде");
+        System.out.println("3 изменение в коде");
+        System.out.println("3 изменение в код1212333");
+        System.out.println("ыварвыларлыолдвоаыаыва1212");
+        System.out.println("3 изменение в кодеыфвцфывцфывцфываыфвафц1212");
+         
+    }
+    
 }
