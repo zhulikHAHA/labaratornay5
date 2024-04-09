@@ -19,7 +19,7 @@ public class LABA1 {
         System.out.println("3 изменение в коде");
         System.out.println("3 изменение в код12");
         System.out.println("изменение 1212");
-        System.out.println("3 ");
+        System.out.println("УСОП КОРОЛЬ ПИРАТОВ");
          
     }
     
